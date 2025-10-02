@@ -7,3 +7,5 @@ const fn = (a) => {
 console.log('test commitLint');
 
 console.log('hello');
+
+console.log('再试一次');
